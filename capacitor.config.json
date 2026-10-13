@@ -1,6 +1,6 @@
 {
-  "appId": "com.example.app",
-  "appName": "capacitor-app",
+  "appId": "com.example.listenerleak",
+  "appName": "listener-leak",
   "bundledWebRuntime": false,
   "webDir": "dist",
   "plugins": {
